@@ -1,4 +1,4 @@
-<img width="900" height="481" alt="image" src="https://github.com/user-attachments/assets/d0185702-dec2-4ee4-810e-4a483a13f622" /># Практическое занятие №9
+## Практическое занятие №9
 ## Реализация распределённого кэша (Redis cluster)
 
 **ФИО:** Бакланова Е.С.
